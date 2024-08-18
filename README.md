@@ -1,6 +1,3 @@
-Here's an enhanced version of your README file for the Full Stack Classroom Website project:
-
----
 
 # Full Stack Classroom Website
 
